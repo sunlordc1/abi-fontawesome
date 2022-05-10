@@ -740,6 +740,8 @@ readers do not read off random characters that represent icons */
 .fa-bars::before {
   content: "\f0c9";
 }
+.fa-user::before {
+  content: "\f007"; }
 .sr-only,
 .fa-sr-only {
   position: absolute;

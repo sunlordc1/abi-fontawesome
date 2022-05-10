@@ -3,7 +3,7 @@
  * Plugin Name:       ABI Fontawesome
  * Plugin URI:        https://github.com/sunlordc1/wp_font-awesome
  * Description:       Add fontawesome to your project wordpress
- * Version:           1.1
+ * Version:           1.2
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            SunLordc1
