@@ -1,2 +1,2 @@
-# wp_font-awesome
-Add font awesome 6 pro with plugin
+# abi-fontawesome
+Add font awesome 6 pro with plugin to your wordpress project
